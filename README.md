@@ -1,13 +1,25 @@
 # Deleting Google (out of your life)
 It can be done! Here is a video to help you out https://www.youtube.com/watch?v=WoAhf_qwLDM 
 
-### Google Search/Zoeken Alternatieven
-DuckDuckGo – An internet search engine whose goal is to protect users’ privacy and avoiding personalized search results (tracking).
-Startpage – a search engine extension that allows users to browse while not being tracked.
+### Google Search Enging
+- [DuckDuckGo](https://duckduckgo.com) - An internet search engine whose goal is to protect users’ privacy and avoiding personalized search results (tracking).
+- [Startpage](https://www.startpage.com/) - A search engine extension that allows users to browse while not being tracked.
 
 ### Google Chrome Alternatives
-Brave – Is an open-source web browser whose goal is to protect the privacy of their users by blocking trackers or preferring pages in HTTPS.
-Firefox – Is a free and open-source web browser, it was developed by Mozilla Foundation and help from thousands of volunteers!
+- [Brave](https://Brave.com) - Is an open-source web browser whose goal is to protect the privacy of their users by blocking trackers or preferring pages in HTTPS.
+- [Firefox](https://www.mozilla.org/nl/firefox/new/) - Is a free and open-source web browser, it was developed by Mozilla Foundation and help from thousands of volunteers!
+
+### Google Chrome Alternatives
+- [Brave](https://Brave.com) - Is an open-source web browser whose goal is to protect the privacy of their users by blocking trackers or preferring pages in HTTPS.
+- [Firefox](https://www.mozilla.org/nl/firefox/new/) - Is a free and open-source web browser, it was developed by Mozilla Foundation and help from thousands of volunteers!
+
+### Google Chrome Alternatives
+- [Brave](https://Brave.com) - Is an open-source web browser whose goal is to protect the privacy of their users by blocking trackers or preferring pages in HTTPS.
+- [Firefox](https://www.mozilla.org/nl/firefox/new/) - Is a free and open-source web browser, it was developed by Mozilla Foundation and help from thousands of volunteers!
+
+### Google Chrome Alternatives
+- [Brave](https://Brave.com) - Is an open-source web browser whose goal is to protect the privacy of their users by blocking trackers or preferring pages in HTTPS.
+- [Firefox](https://www.mozilla.org/nl/firefox/new/) - Is a free and open-source web browser, it was developed by Mozilla Foundation and help from thousands of volunteers!
 
 ### Gmail + Calendar + Contacts Alternatives
 ProtonMail – based in Switzerland; free accounts up to 500 MB 
