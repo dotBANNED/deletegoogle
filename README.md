@@ -50,4 +50,4 @@
 - [Notes in your mailservice](https://mailfence.com/) - Implemented in some email services, mailfence is one that supports it for example.
 
 
-### A good all-in-one solution can be hosting your own Nextcloud server/Synology/ownCloud server.
+### A good all-in-one solution can be hosting your own Nextcloud/Synology/ownCloud server.
