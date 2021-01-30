@@ -1,3 +1,18 @@
+# Deleting Google
+Google trackers have been found on 75% of the top million websites.
+This means they are not only tracking what you search for, they're also
+tracking which websites you visit, and using all your data for ads that
+follow you around the Internet. Your personal data can also be 
+subpoenaed by lawyers, including for civil cases like divorce.
+
+More and more people are also realizing the risk of relying on one 
+company for so many personal services. If you're joining the ranks of 
+people who've decided Google's data collection has become too invasive, 
+here are some suggestions for replacements with minimal switching cost. 
+Most are free, though even those that are paid are worth it — the cost 
+of not switching is a cost to your personal privacy, and the good news 
+is we have a choice!
+
 ### Google Search/Zoeken Alternatieven
 DuckDuckGo – An internet search engine whose goal is to protect users’ privacy and avoiding personalized search results (tracking).
 Startpage – a search engine extension that allows users to browse while not being tracked.
