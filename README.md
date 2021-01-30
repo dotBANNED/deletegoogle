@@ -1,5 +1,5 @@
 # Deleting Google (out of your life)
-It can be done!
+It can be done! Here is a video to help you out https://www.youtube.com/watch?v=WoAhf_qwLDM 
 
 ### Google Search/Zoeken Alternatieven
 DuckDuckGo – An internet search engine whose goal is to protect users’ privacy and avoiding personalized search results (tracking).
