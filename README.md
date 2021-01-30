@@ -1,5 +1,4 @@
 # Deleting Google (out of your life)
-It can be done! Here is a video to help you out https://www.youtube.com/watch?v=WoAhf_qwLDM 
 
 ### Google Search Enging
 - [DuckDuckGo](https://duckduckgo.com) - An internet search engine whose goal is to protect users’ privacy and avoiding personalized search results (tracking).
@@ -51,4 +50,4 @@ It can be done! Here is a video to help you out https://www.youtube.com/watch?v=
 - [Notes in your mailservice](https://mailfence.com/) - Implemented in some email services, mailfence is one that supports it for example.
 
 
-## A good all-in-one solution can be hosting your own Nextcloud server/Synology/ownCloud server!
+### A good all-in-one solution can be hosting your own Nextcloud server/Synology/ownCloud server.
