@@ -8,7 +8,7 @@
 - [Brave](https://Brave.com) - Is an open-source web browser whose goal is to protect the privacy of their users by blocking trackers or preferring pages in HTTPS.
 - [Firefox](https://www.mozilla.org/nl/firefox/new/) - Is a free and open-source web browser, it was developed by Mozilla Foundation and help from thousands of volunteers!
 
-### ### Gmail + Calendar + Contacts Alternatives
+### Gmail + Calendar + Contacts Alternatives
 - [ProtonMail](https://protonmail.com) - based in Switzerland; free accounts up to 500 MB. 
 - [Mailfence](https://www.mailfence.com) - based in Belgium; lots of features; free accounts up to 500 MB. 
 - [Tutanota ](https://tutanota.com) - based in Germany; very secure and private; free accounts up to 1 GB.
