@@ -1,6 +1,6 @@
 # Deleting Google (out of your life)
 
-### Google Search Enging
+### Google Search Engine
 - [DuckDuckGo](https://duckduckgo.com) - An internet search engine whose goal is to protect users’ privacy and avoiding personalized search results (tracking).
 - [Startpage](https://www.startpage.com/) - A search engine extension that allows users to browse while not being tracked.
 
