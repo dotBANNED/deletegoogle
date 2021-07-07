@@ -1,4 +1,4 @@
-# Deleting Google (out of your life)
+# Deleting Google (Alternative websites or tools)
 
 ### Google Search Engine
 - [DuckDuckGo](https://duckduckgo.com) - An internet search engine whose goal is to protect users’ privacy and avoiding personalized search results (tracking).
