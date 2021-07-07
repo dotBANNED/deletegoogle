@@ -41,7 +41,7 @@
 ### Google Hangout Alternatives
 - [Signal](https://www.signal.org) - Offers encrypted group chats and is focused on users’ privacy.
 - [Telegram](telegram.org) - Simple to use, fast, and secure while being synced on all your devices. Telegram was based in Russia and is now based in Dubai.
-- [Discord](https://discord.comm - It allows you to stay connected with your friends by video call and you can also share screens.
+- [Discord](https://discord.com) - It allows you to stay connected with your friends by video call and you can also share screens.
 
 ### Google Keep Alternatives
 - [StandardNotes](https://standardnotes.org) - Great alternative for a note-taking service. It is secure, encrypted, and free with apps for Windows, Mac, Linux, iOS, and Android (web-based also available).
