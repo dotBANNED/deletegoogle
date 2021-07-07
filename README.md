@@ -25,7 +25,7 @@
 ### Google Drive Alternatives
 - [MEGA](https://mega.nz) - Based in New Zealand, MEGA offers very affordable plans and lots of secure cloud storage space.
 - [ProtonDrive](https://drive.protonmail.com) - based in Switzerland, same provider as ProtonMail. (coming soon) 
-- [SelfHosted](https://nextcloud.com) - Can be daunting at first, but you can always ask someone to set it up for you instead.
+- [NextCloud Selfhosting](https://nextcloud.com) - Can be daunting at first, but you can always ask someone to set it up for you instead.
 
 ### Google Docs/Sheets/Slides Alternatives
 - [CryptPad](https://cryptpad.fr) - CryptPad is a privacy-focused alternative with strong encryption, and it’s free.
